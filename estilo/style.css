@@ -17,8 +17,8 @@ body,html{
 }
 
 main{
-    width: 320px;
-  
+    width: 70%;
+    height: 60%;
     background-color: #00a8ec;
     border-radius: 10px;
     padding: 5px;
